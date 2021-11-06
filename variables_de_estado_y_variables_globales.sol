@@ -2,6 +2,8 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
+//uint (valores positivos >=0)
+
 contract Identity {
     uint256 public idNumber;
     bool public isWorking;
